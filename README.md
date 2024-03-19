@@ -7,7 +7,9 @@ This mobile application allows couples to keep a digital diary of their love sto
 
 
 
+
 Features
+
 
 
 Personalized Diary: Couples can create their own digital diary by entering their names and start adding notes.
@@ -23,7 +25,9 @@ Reset Option: Users have the option to reset the diary, removing all entries, if
 
 
 
+
 Technologies Used
+
 
 
 React Native: The app is built using React Native, allowing for cross-platform compatibility.
@@ -35,6 +39,7 @@ Expo: The project is bootstrapped with Expo, providing access to various APIs an
 React Navigation: Used for navigation between different screens within the app.
 
 Expo Image Picker: Allows users to pick images from their device's gallery to attach to diary entries.
+
 
 
 
